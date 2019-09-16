@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Sep 13 09:36:25 2019
-
-@author: sasas
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Fri Sep  6 14:13:44 2019
 
 @author: sasas
